@@ -1,4 +1,4 @@
-#full_name = Kelvin Kasami
+#fullname = Kelvin Kasami
 #student_number = 101011202
 def main():
     cost_per_item = 19.99
